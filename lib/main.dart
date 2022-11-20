@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-void main() {
+void main() { // coverage:ignore-line
   runApp(const MyApp()); // coverage:ignore-line
 }
 
